@@ -1,4 +1,4 @@
-/*
+
 let numeroSecreto;
 let intentos; 
 let listaNumeroSorteados = [];
@@ -74,7 +74,7 @@ function reiniciarjuego() {
 }
 
 condicionesinciales();
-*/
+
 
 
 
@@ -132,13 +132,13 @@ for ( let i = 1; i <= 100; i++) {
 
 
 
-
+/*
  let extraer = 3;
  let array =[];
  let frutas = ['Peras', 'Manzanas', 'Platano', 'Sandia'];
  let aleatorio = Math.floor(Math.random()*4);
  console.log(frutas[aleatorio]);
- 
+ */
 
 
 
